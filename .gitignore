@@ -1,0 +1,15 @@
+# Local Android configuration and generated files
+.gradle/
+.idea/
+.kotlin/
+**/build/
+local.properties
+*.iml
+*.log
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pem
+app/src/main/assets/hand_landmarker.task
